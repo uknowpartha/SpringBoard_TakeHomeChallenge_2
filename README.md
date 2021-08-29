@@ -3,8 +3,8 @@
 Following are the deliverables available in this repository.
 
 <H2> Data Files </H2>
-data/takehome_user_engagement. csv
-data/takehome_users . csv
+data/takehome_user_engagement.csv <br>
+data/takehome_users.csv
 
 <H2>Notebook </H2>
 Relax_Inc_Challenge_Notebook.ipynb
